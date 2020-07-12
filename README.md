@@ -4,6 +4,14 @@ Share hooks between any component in your app!
 
 ## How to use it
 
+**Install**
+
+```bash
+npm install react-provider-maker
+or
+yarn add react-provider-maker
+```
+
 **creating the provider!**
 
 ```typescript
