@@ -1,6 +1,6 @@
 {
   "name": "react-provider-maker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple library to make react providers",
   "main": "dist/index.js",
   "scripts": {
